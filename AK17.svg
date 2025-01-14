@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="APPLIQUES" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220.24 200.41">
+  <g id="b" data-name="AK17">
+    <g>
+      <path id="c" data-name="path6" d="M1.5,171.99L90.68,17.51c1.93-3.34,5.49-5.39,9.34-5.39s7.41,2.06,9.34,5.39l89.19,154.48c1.93,3.34,1.93,7.45,0,10.79-1.93,3.34-5.49,5.39-9.34,5.39H10.84c-3.85,0-7.41-2.06-9.34-5.39-1.93-3.34-1.93-7.45,0-10.79h0Z" style="fill: #f9ba17; stroke-width: 0px;"/>
+      <path id="d" data-name="path8" d="M10.81,183.86h178.44c2.31,0,4.44-1.23,5.59-3.23,1.15-2,1.15-4.46,0-6.45L105.62,19.64c-1.15-2-3.28-3.23-5.59-3.23s-4.44,1.23-5.59,3.23L5.22,174.17c-1.15,2-1.15,4.46,0,6.45,1.15,2,3.28,3.23,5.59,3.23h0Z" style="fill: #f91a0e; stroke-width: 0px;"/>
+      <polygon id="e" data-name="polygon10" points="100.03 35.85 178 170.91 22.05 170.91 100.03 35.85" style="fill: #f9ba17; stroke-width: 0px;"/>
+      <path id="f" data-name="path12" d="M119.18,148.26v-58.13c0-10.58-8.58-19.16-19.16-19.16s-19.16,8.58-19.16,19.16v58.13c0,10.58,8.58,19.16,19.16,19.16,10.58,0,19.16-8.58,19.16-19.16h0Z" style="stroke-width: 0px;"/>
+      <circle id="g" data-name="circle14" cx="100.03" cy="119.2" r="12.47" style="fill: none; stroke-width: 0px;"/>
+      <circle id="h" data-name="circle16" cx="100.03" cy="148.26" r="12.47" style="fill: #52ae27; stroke-width: 0px;"/>
+      <circle id="i" data-name="circle18" cx="100.03" cy="90.13" r="12.47" style="fill: #f91a0e; stroke-width: 0px;"/>
+      <circle id="j" data-name="circle20" cx="99.33" cy="119.35" r="12.47" style="fill: #ff0; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>

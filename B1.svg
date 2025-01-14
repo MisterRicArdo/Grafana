@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="APPLIQUES" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220.7 202.35">
+  <g id="b" data-name="B1">
+    <g id="c" data-name="path2997">
+      <circle cx="100.47" cy="101.35" r="98.74" transform="translate(-42.24 100.73) rotate(-45)" style="fill: #fff; stroke-width: 0px;"/>
+      <path d="M100.47,3.87c53.75,0,97.49,43.73,97.49,97.49s-43.73,97.49-97.49,97.49S2.98,155.11,2.98,101.35,46.71,3.87,100.47,3.87M100.47,1.35C45.24,1.35.47,46.12.47,101.35s44.77,100,100,100,100-44.77,100-100S155.7,1.35,100.47,1.35h0Z" style="stroke-width: 0px;"/>
+    </g>
+    <path id="d" data-name="path4005" d="M192.47,101.35c0,50.81-41.19,92-92,92S8.47,152.16,8.47,101.35,49.66,9.35,100.47,9.35s92,41.19,92,92Z" style="fill: red; stroke-width: 0px;"/>
+    <rect id="e" data-name="rect4001" x="29.01" y="84.66" width="142.91" height="33.39" style="fill: #fff; stroke-width: 0px;"/>
+  </g>
+</svg>
