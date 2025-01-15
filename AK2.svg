@@ -5,7 +5,7 @@
     <path id="d" data-name="path8" d="M10.76,183.91h178.48c2.31,0,4.44-1.23,5.59-3.23,1.15-2,1.15-4.46,0-6.46L105.59,19.65c-1.15-2-3.28-3.23-5.59-3.23s-4.44,1.23-5.59,3.23L5.17,174.22c-1.15,2-1.15,4.46,0,6.46,1.15,2,3.28,3.23,5.59,3.23h0Z" style="fill: #f91a0e; stroke-width: 0px;"/>
     <polygon id="e" data-name="polygon10" points="100 35.87 178 170.96 22 170.96 100 35.87" style="fill: #f9ba17; stroke-width: 0px;"/>
     <path id="f" data-name="path12" d="M50.26,158.57h-.03v-14.01c4.79,0,9.11-2.9,10.91-7.34,2.25-5.53,7.55-9.21,13.52-9.38,5.97-.17,11.47,3.2,14.04,8.6,1.84,3.89,5.6,6.51,9.88,6.92h2.84c4.28-.4,8.04-3.03,9.88-6.92,2.56-5.39,8.07-8.77,14.04-8.6,5.97.17,11.27,3.85,13.52,9.38,1.8,4.44,6.12,7.34,10.91,7.34v14.01H50.26Z" style="fill: #000000; stroke-width: 0px;"/>
-    <line id="g" data-name="line14" x1="71.78" y1="158.57" x2="71.75" y2="158.57" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .08px;"/>
-    <line id="h" data-name="line16" x1="89.14" y1="158.57" x2="77.29" y2="158.57" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .18px;"/>
+    <line id="g" data-name="line14" x1="71.78" y1="158.57" x2="71.75" y2="158.57" style="fill: #000000; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .08px;"/>
+    <line id="h" data-name="line16" x1="89.14" y1="158.57" x2="77.29" y2="158.57" style="fill: #000000; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .18px;"/>
   </g>
 </svg>
